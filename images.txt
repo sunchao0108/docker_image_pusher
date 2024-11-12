@@ -1,2 +1,2 @@
 gitlab/gitlab-ce
-jenkins/jenkins
+jenkins/jenkins:2.319.1-lts
