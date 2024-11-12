@@ -1,3 +1,4 @@
 gitlab/gitlab-ce
 jenkins/jenkins:2.319.1-lts
 jenkins/jenkins:2.452.4
+jenkins/jenkins:2.479.1
